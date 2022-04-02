@@ -1,0 +1,80 @@
+<svg fill="none" viewBox="0 0 900 100" width="900" height="100" xmlns="http://www.w3.org/2000/svg">
+	<!-- Reference: https://github.com/sindresorhus/css-in-readme-like-wat -->
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes animate {
+					0% {
+						transform: perspective(100px);
+						transform: translate3d(0px, 0%, 0.1em);
+					}
+					100% {
+						transform: perspective(5px);
+					}
+				}
+				@keyframes gradientBackground {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+				@keyframes fadeIn {
+					0% {
+						opacity: 0;
+					}
+					66% {
+						opacity: 0;
+					}
+					100% {
+						opacity: 1;
+					}
+				}
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 100px;
+					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 20px;
+					color: white;
+					text-align: center;
+				}
+				h1 {
+					font-size: 30px;
+					line-height: 1;
+					letter-spacing: 5px;
+					text-shadow:
+						0 1px 0 #efefef,
+						0 2px 0 #efefef,
+						0 3px 0 #efefef,
+						0 4px 0 #efefef,
+						0 2px 3px rgba(0, 0, 0, 0.1);
+					animation: animate ease-in-out 5s infinite;
+				}
+			</style>
+			<div class="container">
+				<h1>Welcome 你好 안녕 اڤ خبر</h1>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
