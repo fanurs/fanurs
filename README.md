@@ -1,4 +1,4 @@
-<a><img src="svg_files/header.svg" width="900" height="100"></a>
+<a href="#"><img src="svg_files/header.svg" width="900" height="100"></a>
 
 - ⚛️ I'm currently working toward my PhD degree in Nuclear Physics
 
