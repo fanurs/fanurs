@@ -11,4 +11,4 @@
 
 ### Contacts
 
-<a href="https://www.linkedin.com/in/fanurs-teh/"><img height="40px" src="svg_files/linkedin-square.svg"></a> <a href="https://www.linkedin.com/in/fanurs-teh/"><img height="30px" src="svg_files/handshake.svg"></a>
+<a href="https://www.linkedin.com/in/fanurs-teh/"><img height="40px" src="svg_files/linkedin-square.svg"></a> <a href="https://msu.joinhandshake.com/stu/users/8300933"><img height="30px" src="svg_files/handshake.svg"></a>
