@@ -4,7 +4,7 @@
 
 - 💻 Most commonly used languages: _Python, C++, JavaScript/TypeScript_
 
-- 🌱 Nowadays exploring: _[Vue.js](https://vuejs.org/), [Microsoft Azure](https://azure.microsoft.com/en-us/), [Graph Neural Network (GNN)](https://distill.pub/2021/gnn-intro/)_
+- 🌱 Nowadays exploring: _[Rust](https://www.rust-lang.org/), [Microsoft Azure](https://azure.microsoft.com/en-us/), [Graph Neural Network (GNN)](https://distill.pub/2021/gnn-intro/)_
 
 - 🧠 Here is a small part of my external brain: <a href="https://gist.github.com/fanurs"><img src="svg_files/github.svg"><img src="svg_files/gist.svg"></a>
 
