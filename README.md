@@ -1,6 +1,6 @@
 <a href="#"><img src="svg_files/header.svg" width="900" height="100"></a>
 
-- ⚛️ I'm currently working toward my PhD degree in Nuclear Physics
+- 🎓 Recently graduated with a PhD in Nuclear Physics from Michigan State University
 
 - 💻 Most commonly used languages: _Python, C++, JavaScript/TypeScript_
 
