@@ -6,7 +6,7 @@
 
 🛠 **Most commonly used languages:** Python, C/C++, and JavaScript/TypeScript. Recently exploring [Rust](https://www.rust-lang.org/) and [Lean](https://lean-lang.org/).
 
-🧠 **External brain:** Here's where I share insights, code snippets, and learnings: <a href="https://gist.github.com/YourGitHubUsername"><img src="svg_files/github.svg"><img src="svg_files/gist.svg"></a>
+🧠 **External brain:** Here's where I share insights, code snippets, and learnings: <a href="https://gist.github.com/fanurs"><img src="svg_files/github.svg"><img src="svg_files/gist.svg"></a>
 
 🔗 **Connect with me:** For collaborations or discussions on technology, research, and innovation, feel free to reach out!
 
