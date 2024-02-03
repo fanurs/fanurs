@@ -1,12 +1,14 @@
 <a href="#"><img src="svg_files/header.svg" width="900" height="100"></a>
 
-- 🎓 Recently graduated with a PhD in Nuclear Physics from Michigan State University
+💼 **Current role:** Research Staff at Carnegie Mellon University's [Machine Learning Department](https://www.ml.cmu.edu/).
 
-- 💻 Most commonly used languages: _Python, C++, JavaScript/TypeScript_
+🎓 **Ph.D. in Nuclear Physics** from Michigan State University, working at the [National Superconducting Cyclotron Laboratory (NSCL)](https://nscl.msu.edu/).
 
-- 🌱 Nowadays exploring: _[Rust](https://www.rust-lang.org/), [Microsoft Azure](https://azure.microsoft.com/en-us/), [Graph Neural Network (GNN)](https://distill.pub/2021/gnn-intro/)_
+🛠 **Most commonly used languages:** Python, C/C++, and JavaScript/TypeScript. Recently exploring [Rust](https://www.rust-lang.org/) and [Lean](https://lean-lang.org/).
 
-- 🧠 Here is a small part of my external brain: <a href="https://gist.github.com/fanurs"><img src="svg_files/github.svg"><img src="svg_files/gist.svg"></a>
+🧠 **External brain:** Here's where I share insights, code snippets, and learnings: <a href="https://gist.github.com/YourGitHubUsername"><img src="svg_files/github.svg"><img src="svg_files/gist.svg"></a>
+
+🔗 **Connect with me:** For collaborations or discussions on technology, research, and innovation, feel free to reach out!
 
 
 ### Contacts
