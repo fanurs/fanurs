@@ -1,8 +1,8 @@
 <a href="#"><img src="svg_files/header.svg" width="900" height="100"></a>
 
-💼 **Current role:** Research Staff at Carnegie Mellon University's [Machine Learning Department](https://www.ml.cmu.edu/).
+💼 **Current role:** Staff Researcher at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/).
 
-🎓 **Ph.D. in Nuclear Physics** from Michigan State University, working at the [National Superconducting Cyclotron Laboratory (NSCL)](https://nscl.msu.edu/).
+🎓 **Ph.D. in Nuclear Physics** from Michigan State University. Worked at the [National Superconducting Cyclotron Laboratory (NSCL)](https://nscl.msu.edu/).
 
 🛠 **Most commonly used languages:** Python, C/C++, and JavaScript/TypeScript. Recently exploring [Rust](https://www.rust-lang.org/) and [Lean](https://lean-lang.org/).
 
