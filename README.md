@@ -1,18 +1,25 @@
-<a href="#"><img src="svg_files/header.svg" width="900" height="100"></a>
+<a href="#"><img src="svg_files/header.svg" width="100%" height="100%"></a>
 
-💼 **Current role:** Staff Researcher at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/).
+💼 **Current Role:**  
+Staff Researcher at [Carnegie Mellon University's Robotics Institute](https://www.ri.cmu.edu/), focusing on applied machine learning projects in healthcare, radiation detection, and robotics.
 
-🎓 **Ph.D. in Nuclear Physics** from Michigan State University. Worked at the [National Superconducting Cyclotron Laboratory (NSCL)](https://nscl.msu.edu/).
+🛠 **Coding Interests:**  
+Experienced with Python, C++, and JavaScript/TypeScript. Enthusiast of Linux and VS Code. Recently have been exploring [Polars](https://pola.rs/) for efficient DataFrame operations and [Numba](https://numba.pydata.org/) for accelerating numerical computing.
 
-🛠 **Most commonly used languages:** Python, C/C++, and JavaScript/TypeScript. Recently exploring [Rust](https://www.rust-lang.org/) and [Lean](https://lean-lang.org/).
+🎓 **Education:**  
+Ph.D. in Nuclear Physics from [Michigan State University](https://msu.edu/), with research conducted at the [National Superconducting Cyclotron Laboratory (NSCL)](https://nscl.msu.edu/), now known as the [Facility for Rare Isotope Beams (FRIB)](https://frib.msu.edu/).
 
-🧠 **External brain:** Here's where I share insights, code snippets, and learnings: <a href="https://gist.github.com/fanurs"><img src="svg_files/github.svg"><img src="svg_files/gist.svg"></a>
+🧠 **External Brain:**  
+I share code snippets and technical notes on my Gist page, which I frequently refer to myself: <a href="https://gist.github.com/fanurs"><img src="svg_files/github.svg"><img src="svg_files/gist.svg"></a>
 
-🔗 **Connect with me:** For collaborations or discussions on technology, research, and innovation, feel free to reach out!
+🔗 **Let's Connect:**  
+If you're interested in collaboration or discussions about science, software, or machine learning, feel free to reach out. I'll also be attending [PyCon US 2025](https://us.pycon.org/2025/) in Pittsburgh this May.
 
+To avoid spam, I do not list my email publicly. You can connect with me via:<br>
+<a href="https://www.linkedin.com/in/fanurs-teh"><img height="40px" src="svg_files/linkedin-square.svg"></a> <a href="https://twitter.com/fanursteh"><img height="40px" src="svg_files/twitter.svg"></a>
 
-### Contacts
+---
 
-<a href="https://www.linkedin.com/in/fanurs-teh"><img height="40px" src="svg_files/linkedin-square.svg"></a> <a href="https://msu.joinhandshake.com/stu/users/8300933"><img height="30px" src="svg_files/handshake.svg"></a> <a href="https://twitter.com/fanursteh"><img height="40px" src="svg_files/twitter.svg"></a>
+### 📁 About My Personal Repositories
 
-![](https://komarev.com/ghpvc/?username=fanurs&style=for-the-badge&label=Views)
+I used to publish more personal projects here, but most of my current work involves larger collaborations that are not yet open source. I hope to share some of these projects in the near future, pending internal reviews or publication.
