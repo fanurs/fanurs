@@ -13,7 +13,7 @@ Ph.D. in Nuclear Physics from [Michigan State University](https://msu.edu/), wit
 I share code snippets and technical notes on my Gist page, which I frequently refer to myself: <a href="https://gist.github.com/fanurs"><img src="svg_files/github.svg"><img src="svg_files/gist.svg"></a>
 
 🔗 **Let's Connect:**  
-If you're interested in collaboration or discussions about science, software, or machine learning, feel free to reach out. I'll also be attending [PyCon US 2025](https://us.pycon.org/2025/) in Pittsburgh this May.
+If you're interested in collaboration or discussions about science, software, or machine learning, feel free to reach out.
 
 To avoid spam, I do not list my email publicly. You can connect with me via:<br>
 <a href="https://www.linkedin.com/in/fanurs-teh"><img height="40px" src="svg_files/linkedin-square.svg"></a> <a href="https://twitter.com/fanursteh"><img height="40px" src="svg_files/twitter.svg"></a>
