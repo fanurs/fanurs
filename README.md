@@ -1,4 +1,4 @@
-<a href="#"><img src="svg_files/header.svg" width="100%" height="100%"></a>
+<img src="https://raw.githubusercontent.com/fanurs/fanurs/main/svg_files/header.svg" width="100%">
 
 💼 **Current Role:**  
 Staff Researcher at [Carnegie Mellon University's Robotics Institute](https://www.ri.cmu.edu/), focusing on applied machine learning projects in healthcare, radiation detection, and robotics.
