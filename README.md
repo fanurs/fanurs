@@ -25,4 +25,4 @@ To avoid spam, I do not list my email publicly. You can connect with me via:<br>
 
 ### 📁 About My Personal Repositories
 
-I used to publish more personal projects here, but most of my current work involves larger collaborations that are not yet open source 😿. I hope to share some of these projects in the near future, pending internal reviews or publication.
+I used to publish more personal projects here, but most of my current work involves larger collaborations that are not yet open source 😿. I hope to share some of these projects in the near future, once they've cleared internal review or been published.
