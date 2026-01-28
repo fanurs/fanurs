@@ -19,7 +19,7 @@ If you think there's something where your domain expertise 🤯 could benefit fr
 If you're interested in collaboration or discussions about science, software, or AI, feel free to reach out.
 
 To avoid spam, I do not list my email publicly. You can connect with me via:<br>
-<a href="https://www.linkedin.com/in/fanurs-teh"><img height="40px" src="svg_files/linkedin-square.svg"></a> <a href="https://twitter.com/fanursteh"><img height="40px" src="svg_files/twitter.svg"></a>
+<a href="https://www.linkedin.com/in/fanurs-teh"><img height="40px" src="svg_files/linkedin-square.svg"></a><a href="https://x.com/fanursteh"><img height="40px" src="svg_files/x.svg"></a><a href="https://www.threads.com/@fanurs"><img height="40px" src="svg_files/threads.svg"></a>
 
 ---
 
